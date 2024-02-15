@@ -12,10 +12,13 @@ import Link from "next/link";
 
 //variants
 import { fadeIn } from "../../variants";
+import Particles from "react-tsparticles";
+import ParticlesContainer from "../../components/ParticlesContainer";
 
 const Contact = () => {
   return (
     <div className="h-full bg-primary/30">
+      <ParticlesContainer/>
       <div
         className="container mx-auto py-32 text-center
      xl:text-left flex items-center justify-center h-full"

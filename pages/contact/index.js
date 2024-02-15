@@ -30,7 +30,7 @@ const Contact = () => {
             exit="hidden"
             className="h2 text-center mb-12"
           >
-            Let`&lsquo;`s <span>Connect.</span>
+            Let &apos; s <span>Connect.</span>
           </motion.h2>
           {/*form */}
           <motion.form
@@ -56,7 +56,7 @@ const Contact = () => {
                 className="group-hover:translate-y-[120%] group-hover:opacity-0
              transition-all duration-500"
               >
-                Let`&lsquo;`s Talk
+                Let &apos;s Talk
               </span>
               <BsArrowRight
                 className="translate-y-[120%] opacity-0 group-hover:flex

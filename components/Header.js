@@ -20,10 +20,10 @@ const Header = () => {
         {/*logo */}
         <Link href={' / '}>
         <Image 
-        src={'/img.svg'}
+        src={'/fina.png'}
          
         width={280} 
-        height={58} 
+        height={150} 
         alt=' ' 
         priority={true} 
         />

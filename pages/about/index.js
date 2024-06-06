@@ -281,7 +281,7 @@ const About = () => {
            items-center xl:items-start '>
             {aboutData[index].info.map((item, itemIndex) => {
               return (
-              <div 
+              <div  
               key={itemIndex} 
               className='flex-1 flex flex-col md:flex-row max-w-max gap-x-2 items-center text-white/60 '>
             {/* title */}

@@ -16,11 +16,11 @@ const ProjectsBtn = () => {
      items-center bg-circleStar bg-cover bg-center bg-no-repeat group'
      >
      <Image
-     src={'/rounded-text.png'} 
-     width={141} 
+     src={'/myproject.png'} 
+     width={148} 
      height={148} 
      alt=' ' 
-     className='animate-spin-slow w-[81%] h-[85%] max-w-[141px] max-h-[148]' />
+     className='animate-spin-slow w-[81%] h-[85%] max-w-[148px] max-h-[148]' />
      <HiArrowRight className='absolute text-4xl group-hover:translate-x-2 
      transition-all duration-300' />
    </Link>

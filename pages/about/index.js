@@ -193,9 +193,11 @@ const About = () => {
           exit='hidden'
           className='max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0'
         >
-            3 years ago, I began freelancing as a developer. 
-            Since then, I have done remote work for agencies, 
-            consulted for startups and collaborated on digital products for business and consumer use.
+            
+            Chat Assistant, our revolutionary AI-powered platform, 
+            revolutionizes IT operations by seamlessly integrating 
+            with existing systems to automate repetitive tasks, provide instant answers 
+            to technical queries, and facilitate collaborative problem-solving.
             </motion.p>
             {/*counter*/}
             <motion.div 
@@ -281,7 +283,7 @@ const About = () => {
            items-center xl:items-start '>
             {aboutData[index].info.map((item, itemIndex) => {
               return (
-              <div  
+              <div 
               key={itemIndex} 
               className='flex-1 flex flex-col md:flex-row max-w-max gap-x-2 items-center text-white/60 '>
             {/* title */}

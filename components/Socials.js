@@ -40,13 +40,13 @@ import {
   const Socials = () => {
     return(
       <div className='flex items-center  gap-x-5 text-lg' >
-        <Link href={'https://www.linkedin.com/in/prince-bhikadiya-66a217221/'} alt ='' className='hover:text-accent transition-all duration-300 '>
+        <Link href={'https://www.linkedin.com/company/prince-solution/'} alt ='' className='hover:text-accent transition-all duration-300 '>
           <RiLinkedinLine/>
         </Link>
-        <Link href={'https://www.facebook.com/prince.bhikadiya.756'} alt ='' className='hover:text-accent transition-all duration-300 '>
+        <Link href={'https://www.linkedin.com/company/prince-solution/'} alt ='' className='hover:text-accent transition-all duration-300 '>
           <RiFacebookLine/>
         </Link>
-        <Link href={'https://www.linkedin.com/in/prince-bhikadiya-66a217221/'} alt ='' className='hover:text-accent transition-all duration-300 '>
+        <Link href={'https://www.linkedin.com/company/prince-solution/'} alt ='' className='hover:text-accent transition-all duration-300 '>
           <RiInstagramLine/>
         </Link>
         

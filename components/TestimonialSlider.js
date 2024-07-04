@@ -5,28 +5,28 @@ const testimonialSlides = [
     name: '	Kelly',
     position: 'Las Vegas, USA',
     message:
-      'Working with Prince Bhikadiya was an absolute pleasure. Their attention to detail and creative flair transformed my vision into a stunning reality for my business.',
+      'Working with Prince Solutions was an absolute pleasure. Their attention to detail and creative flair transformed my vision into a stunning reality for my business.',
   },
   {
     image: '/t-avt-2.png',
     name: 'Rebecca ',
     position: 'San Diego',
     message:
-      'I highly recommend Prince Bhikadiya for anyone seeking a top-notch web designer and Application Designer. Their dedication, creativity, and collaborative approach make them an invaluable asset to any project.',
+      'I highly recommend Prince Solutions for anyone seeking a top-notch web designer and Application Designer. Their dedication, creativity, and collaborative approach make them an invaluable asset to any project.',
   },
   {
     image: '/t-avt-3.png',
     name: 'Ramchandra ',
     position: 'Mumbai, India',
     message:
-      'From the initial consultation to the final launch, Prince Bhikadiya demonstrated unwavering commitment and skill. My website not only looks fantastic but also performs flawlessly',
+      'From the initial consultation to the final launch, Prince Solutions demonstrated unwavering commitment and skill. My website not only looks fantastic but also performs flawlessly',
   },
   {
     image: '/t-avt-3.png',
     name: 'Jack',
     position: 'Australia',
     message:
-      'Choosing Prince Bhikadiya for my portfolio website was a game-changer. They seamlessly blended aesthetics with functionality, creating a platform that truly represents my brand.',
+      'Choosing Prince Solutions for my portfolio website was a game-changer. They seamlessly blended aesthetics with functionality, creating a platform that truly represents my brand.',
   },
 ];
 

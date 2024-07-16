@@ -43,10 +43,10 @@ import {
         <Link href={'https://www.linkedin.com/company/prince-solution/'} alt ='' className='hover:text-accent transition-all duration-300 '>
           <RiLinkedinLine/>
         </Link>
-        <Link href={'https://www.linkedin.com/company/prince-solution/'} alt ='' className='hover:text-accent transition-all duration-300 '>
+        <Link href={'https://www.facebook.com/profile.php?id=61562212764991'} alt ='' className='hover:text-accent transition-all duration-300 '>
           <RiFacebookLine/>
         </Link>
-        <Link href={'https://www.linkedin.com/company/prince-solution/'} alt ='' className='hover:text-accent transition-all duration-300 '>
+        <Link href={'https://www.instagram.com/prince_solutions/'} alt ='' className='hover:text-accent transition-all duration-300 '>
           <RiInstagramLine/>
         </Link>
         

@@ -14,7 +14,7 @@ const sora = Sora({
 import Nav from '../components/Nav';
 import Header from '../components/Header';
 import TopLeftImg from '../components/TopLeftImg';
-import PrivacyPolicy from './PrivacyPolicy';
+
 
 const Layout = ({children}) => {
   return (

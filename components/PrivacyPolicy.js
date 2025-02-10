@@ -11,7 +11,7 @@ const PrivacyPolicy = () => {
     <div className="privacy-policy">
       <h1>Privacy Policy for Prince AI</h1>
       <p>
-        Last updated: October 26, 2023
+        Last updated: October 26, 2024
       </p>
 
       <p>

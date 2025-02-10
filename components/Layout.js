@@ -14,6 +14,7 @@ const sora = Sora({
 import Nav from '../components/Nav';
 import Header from '../components/Header';
 import TopLeftImg from '../components/TopLeftImg';
+import PrivacyPolicy from './PrivacyPolicy';
 
 const Layout = ({children}) => {
   return (
@@ -21,7 +22,9 @@ const Layout = ({children}) => {
    className= {`page bg-site text-white bg-cover bg-no-repeat ${sora.variable}
     font-sora relative`}>
    <TopLeftImg />
+   <PrivacyPolicy/>
     <Nav />
+  
     
     <Header />
     {children}

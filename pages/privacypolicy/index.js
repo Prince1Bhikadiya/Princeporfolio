@@ -25,7 +25,7 @@ const PrivacyPolicy = () => {
       <ul>
         <li>Company details provided by the user.</li>
         <li>User interactions with the AI assistant .</li>
-        <li>Usage statistics (frequency of use, features accessed).</li>
+        <li>Usage statistics frequency of use, features accessed.</li>
         <li>Any data explicitly provided for training or personalization of the AI assistant.</li>
       </ul>
 
@@ -38,7 +38,7 @@ const PrivacyPolicy = () => {
         <li>Personalize the user experience.</li>
         <li>Improve our services and products.</li>
         <li>Communicate with users regarding updates and support.</li>
-        <li>(Optional) Perform internal analyses to understand usage patterns and service effectiveness.</li>
+        <li>Perform internal analyses to understand usage patterns and service effectiveness.</li>
       </ul>
       
      
